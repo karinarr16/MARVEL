@@ -1,1 +1,1 @@
-# Esta es la primera vercion de la pagina Espanta viejas vol.1
+# Esta es la primera version de la pagina Espanta viejas vol.1
